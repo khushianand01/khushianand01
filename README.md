@@ -1,16 +1,14 @@
 <h1 align="center">Hi there, I'm Khushi Anand 🌷</h1>
 
 <p align="center">
-  ✨ CSE (AI) Student | MERN Developer | ML Explorer ✨  
+  ✨ CSE (AI) Student | MERN | AI Enthusiast ✨  
 </p>
 
 ---
 
-🌸 I love turning ideas into aesthetic web apps  
-🧠 Exploring the magic of AI, one model at a time  
-💻 Building: Snapper, Salary Predictor, AutoFlap & more  
-☁️ Manifesting cute tech + clean code vibes  
-📍 Currently seeking an internship in Bangalore  
+🌿 growing through every line of code  
+💻 building with purpose, not pressure  
+📖 still writing my tech story 
 
 ---
 
