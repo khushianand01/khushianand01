@@ -6,7 +6,7 @@
 
 ---
 
-🌿 growing through every line of code  
+🌱 growing through every line of code  
 💻 building with purpose, not pressure  
 📖 still writing my tech story 
 
