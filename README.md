@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Khushi Anand 🌷</h1>
 
 <p align="center">
-   CSE (AI) Student | MERN | AI/ML Enthusiast ✨  
+   CSE (AI) Student | AI/ML Enthusiast | MERN ✨  
 </p>
 
 ---
