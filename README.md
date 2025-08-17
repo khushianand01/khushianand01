@@ -9,7 +9,6 @@
 🌱 growing through every line of code  
 💻 building with purpose, not pressure  
 📖 still writing my tech story
-📧 khushi28anand@gmail.com
 
 ---
 
@@ -20,7 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
+📧 khushi28anand@gmail.com
 ---
 
 ### 💻 Languages and Tools:
