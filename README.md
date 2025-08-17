@@ -9,6 +9,7 @@
 🌱 growing through every line of code  
 💻 building with purpose, not pressure  
 📖 still writing my tech story
+
 📧 khushi28anand@gmail.com
 
 ---
