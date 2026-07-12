@@ -1,65 +1,45 @@
 <h1 align="center">Hi there, I'm Khushi Anand 👋</h1>
 
 <h3 align="center">
-AI Engineer | Generative AI | LLMs | Agentic AI | OCR | Voice AI
+AI Engineer • Generative AI • LLMs • Agentic AI • OCR • Voice AI
 </h3>
 
 <p align="center">
-Building production-ready AI applications powered by Large Language Models and modern AI infrastructure.
+Building production-ready AI applications powered by Large Language Models.
 </p>
 
 <p align="center">
-  <a href="https://github.com/khushianand01">
-    <img src="https://img.shields.io/github/followers/khushianand01?label=Followers&style=social" />
+  <a href="https://linkedin.com/in/khushianand28">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://github.com/khushianand01">
-    <img src="https://img.shields.io/github/stars/khushianand01?affiliations=OWNER&style=social" />
-  </a>
-</p>
-
----
-
-## 👩‍💻 About Me
-
-- 💼 AI Engineer Intern at **CredResolve**
-- 🤖 Building production-grade AI systems using **LLMs, FastAPI, OCR, Voice AI, and Agentic AI**
-- 🧠 Experienced in **LLM Fine-Tuning, LoRA, PEFT, Quantization, RAG, LangGraph, MCP Protocol, and VLMs**
-- 🚀 Passionate about scalable AI infrastructure, multimodal AI, and intelligent automation
-- 🌱 Currently exploring **AI Evaluation Systems, Distributed AI Pipelines, and AI Agents**
-
----
-
-## 🚀 What I'm Working On
-
-- 🔹 Fine-tuning Large Language Models
-- 🔹 Agentic AI Applications
-- 🔹 OCR & Vision Language Models
-- 🔹 Voice AI & Evaluation Frameworks
-- 🔹 FastAPI Backend Development
-- 🔹 AI Infrastructure & Deployment
-- 🔹 Multimodal AI Systems
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/khushianand28" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
   <a href="mailto:khushi28anand@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-khushi28anand%40gmail.com-red?style=flat-square&logo=gmail" />
   </a>
 </p>
 
-📧 **khushi28anand@gmail.com**
+---
+
+# 👩‍💻 About Me
+
+I'm an AI Engineer passionate about building intelligent systems powered by Machine Learning and Large Language Models.
+
+Currently working as an **AI Engineer Intern at CredResolve**, where I build production-ready AI solutions involving:
+
+- 🤖 Large Language Models (LLMs)
+- 🧠 Fine-Tuning & Model Optimization
+- ⚡ Agentic AI Systems
+- 📄 OCR & Vision Language Models
+- 🎙️ Voice AI
+- 🚀 FastAPI Backend Development
+- ☁️ AI Infrastructure & Deployment
+
+I enjoy transforming research into scalable AI products that solve real-world problems.
 
 ---
 
-# 🛠️ Tech Stack
+# ⚡ Tech Stack
 
-### 👨‍💻 Languages
+### 💻 Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -72,14 +52,14 @@ Building production-ready AI applications powered by Large Language Models and m
 
 <p>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangGraph-5B3DF5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/vLLM-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LoRA-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PEFT-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/QLoRA-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/vLLM-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LoRA-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PEFT-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/QLoRA-red?style=for-the-badge"/>
 </p>
 
 ---
@@ -121,52 +101,94 @@ Building production-ready AI applications powered by Large Language Models and m
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 📄 Borrower Document Data Extraction Pipeline
+## 📄 Borrower Document Data Extraction Pipeline
 
-- OCR + Vision Language Models
-- Automated extraction from handwritten & scanned borrower documents
-- Confidence scoring & validation pipeline
+Automated extraction pipeline for handwritten and scanned borrower documents using OCR and Vision Language Models.
+
+**Highlights**
+- OCR + VLM pipeline
+- Confidence scoring
+- Page chunking
 - FastAPI backend
+- Supports documents up to 300 pages
 
 ---
 
-### 🎥 Vishvarupa AI Video Generation Platform
+## 🎥 Vishvarupa AI Video Generation Platform
 
-- AI Avatar Generation
+Production-ready AI platform for personalized video generation.
+
+**Highlights**
+- Avatar Generation
 - Text-to-Video
 - Voice Cloning
-- AWS S3 + SQS
-- Distributed Rendering Pipeline
+- Distributed Rendering
+- AWS S3 & SQS
+- FFmpeg
+- FastAPI
 
 ---
 
-### 🧠 Disposition Classification Fine-Tuning
+## 🧠 Disposition Classification Fine-Tuning
 
-- Fine-tuned **Qwen 2.5 7B**
-- LoRA + PEFT + Quantization
+Fine-tuned **Qwen 2.5 7B** for multilingual borrower call classification.
+
+**Highlights**
+- LoRA
+- PEFT
+- Quantization
 - FastAPI Deployment
 - 90% Classification Accuracy
+
+---
+
+# 📈 Currently Exploring
+
+- Agentic AI
+- AI Evaluation Frameworks
+- Multimodal AI
+- Distributed AI Systems
+- LLM Serving
+- Model Optimization
+- AI Infrastructure
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khushianand01&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=khushianand01&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=khushianand01&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=khushianand01&theme=transparent&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushianand01&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushianand01&layout=compact&theme=transparent&hide_border=true"/>
+
 </p>
 
 ---
 
-# 💭 Quote I Live By
+# 🌱 Current Goals
 
-> *"Build things that solve real problems, keep learning, and let curiosity lead the way."* ✨
+- Build scalable AI products
+- Contribute to open-source AI
+- Learn state-of-the-art LLM architectures
+- Explore multimodal and agentic systems
+- Build AI that creates real-world impact
+
+---
+
+# 📫 Let's Connect
+
+📧 **Email:** khushi28anand@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/khushianand28
 
 ---
 
